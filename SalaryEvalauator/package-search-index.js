@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"it.develhope.salaryEvaluator"},{"l":"it.develhope.salaryEvaluator.buisnessLogic"},{"l":"it.develhope.salaryEvaluator.entities"}];updateSearchResults();
